@@ -8,8 +8,6 @@ tags: diy electronics arduino raspberry-pi 3d-printing code
 
 Welcome!
 
-![Alt text 2](https://32bitwave.github.io/32bitcoffee/images/mobo.jpg)
-
 This site approaches technology with hands-on projects for all ages.
 
 Low barrier to entry projects that are easy for everyone to understand.
