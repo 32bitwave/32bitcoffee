@@ -13,6 +13,6 @@ This was designed in Tinkercad, one of the easiest ways to start modifying and m
 
 ![Alt text 2](https://32bitwave.github.io/32bitcoffee/images/outletShelf1.png)
 
-Want to download my design? Click here: [Download Document](/assets/downloads/outletCover.stl)
+Want to download my free design? [Click here!](https://github.com/32bitwave/32bitcoffee/blob/main/assets/downloads/outletCover.stl)
 
-Thank you!
+Have a nice day
