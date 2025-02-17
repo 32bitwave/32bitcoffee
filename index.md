@@ -1,7 +1,7 @@
---
-layout: home
-title: Your Site Title
-list_title: Articles
---
+---
+layout: page
+title: Hello World!
+tagline: Supporting tagline
+---
 
 Welcome to my website!
