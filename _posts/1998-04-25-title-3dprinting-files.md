@@ -8,7 +8,8 @@ tags: diy 3d-printing
 
 Welcome!
 
-![Alt text 2](https://32bitwave.github.io/32bitcoffee/images/mobo.jpg)
+![Alt text 2](https://32bitwave.github.io/32bitcoffee/images/outletShelf1.png)
+![Alt text 2](https://32bitwave.github.io/32bitcoffee/images/outletShelf2.png)
 
 This site approaches technology with hands-on projects for all ages.
 
