@@ -1,5 +1,7 @@
----
-title: title: Coding, 3D Printing, Electonics & More
----
+--
+layout: home
+title: Your Site Title
+list_title: Articles
+--
 
 Welcome to my website!
