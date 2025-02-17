@@ -1,3 +1,3 @@
 ---
-title: Coding, 3D Printing, Electonics & More!
+title: Coding, 3D Printing, Electonics & More
 ---
