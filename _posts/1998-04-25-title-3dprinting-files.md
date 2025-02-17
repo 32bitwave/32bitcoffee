@@ -6,28 +6,10 @@ categories: 3dprinting
 tags: diy 3d-printing
 ---
 
-Welcome!
+Outlets covers! Every Pi, Arduino, and IOT device needs a place to live, so why not make a self for it to live on.
+
+This was designed in Tinkercad, one of the easiest ways to start modifying and making your own files: [Visit Tinkercad](https://www.tinkercad.com/)
 
 ![Alt text 2](https://32bitwave.github.io/32bitcoffee/images/outletShelf1.png)
-![Alt text 2](https://32bitwave.github.io/32bitcoffee/images/outletShelf2.png)
-
-This site approaches technology with hands-on projects for all ages.
-
-Low barrier to entry projects that are easy for everyone to understand.
-
-Examples of topics that will be covered:
-Programming
-- C, C#, Python
-- Powershell, Linux
-
-Electronics & Microcontrollers
-- Basic Circuit design
-- Arduino and Raspberry Pi projects
-
-Digital Fabrication
-- 3D printing and modeling
-- Rapid prototyping
-
-Each project includes instructions, minimal materials, and troubleshooting tips.
 
 Thank you!
