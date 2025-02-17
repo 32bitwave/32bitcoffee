@@ -1,2 +1,4 @@
 theme: minima
 author: Have a nice day
+minima:
+   skin: dark
