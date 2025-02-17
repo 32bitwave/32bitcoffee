@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Hello World!
+layout: home
+title: How To Code, Electronics & More!
 tagline: Supporting tagline
 ---
 
