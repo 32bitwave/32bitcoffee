@@ -1,3 +1,3 @@
 ---
-title: How To Code, Electronics & More!
+title: Code, Electronics & More!
 ---
