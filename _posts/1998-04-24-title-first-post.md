@@ -12,7 +12,7 @@ Welcome!
 
 This site approaches technology with hands-on projects for all ages.
 
-Our goal is to create "low barrier to entry" projects that are easy to understand.
+Low barrier to entry projects that are easy for everyone to understand.
 
 Examples of topics that will be covered:
 Programming
