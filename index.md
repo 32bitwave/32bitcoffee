@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog
+title: Coding, 3D Printing, Electonics & More!
 ---
