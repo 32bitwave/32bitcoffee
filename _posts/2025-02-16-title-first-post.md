@@ -27,4 +27,6 @@ Digital Fabrication
 
 Each project includes instructions, minimal materials, and troubleshooting tips.
 
+This site was made with [Jekyll](https://jekyllrb.com/) and [Github Pages](https://pages.github.com/)
+
 Thank you!
