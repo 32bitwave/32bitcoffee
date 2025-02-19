@@ -7,12 +7,12 @@ tags: diy electronics
 ---
 ![Alt text 2](https://32bitwave.github.io/32bitcoffee/images/Breadboard555.JPG)
 
-A 555 timer put in an astable mode creates a SQUARE wave for applications like audio, pulsing, or clock signals.
+A 555 timer in an astable mode creates a SQUARE wave for audio, pulsing, or clock signals.
 
 How it works:
-* A capacitor charges through resistors you choose
-* Then the discharge pin on the 555 timer becomes active
-* The capacitor discharges through the discharge pin
+* A capacitor charges through resistors you choose.
+* Then the discharge pin on the 555 timer becomes active.
+* The capacitor discharges through the discharge pin.
 
 Bill of materials:
 * 1 X Breadboard
@@ -28,8 +28,9 @@ Bill of materials:
 
 Tips:
 * Red on the breadboard is positive, Blue on the breadboard is negative.
-* You may not be able to see it, but the top left pin (pin8) of the 555 timer is connected to the positive rail.
-* Take note of the polarity of your capacitors and which rail on the breadboard you have positive and negative voltages connected to.
+* The top left pin (pin8) of the 555 timer is connected to the positive rail.
+* Take note of the polarity of your capacitors.
+* Take note on the breadboard where you have positive and negative voltages connected to.
 * Take note of the polarity of your LED.
 
-Twist the knob of the Potentiometer and watch the LED blink using square waves!
+Twist the knob of the Potentiometer and watch the LED blink using square waves.
