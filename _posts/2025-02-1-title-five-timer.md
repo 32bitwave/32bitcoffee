@@ -10,9 +10,9 @@ tags: diy electronics
 A 555 timer put in an astable mode creates a SQUARE wave for applications like switching, pulsing, or clock signals.
 
 How it works:
-A capacitor charges through resistors you choose
-Then the discharge pin on the 555 timer becomes active
-The capacitor discharges through the discharge pin
+* A capacitor charges through resistors you choose
+* Then the discharge pin on the 555 timer becomes active
+* The capacitor discharges through the discharge pin
 
 Bill of materials:
 1 X Breadboard
