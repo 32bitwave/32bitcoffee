@@ -24,7 +24,12 @@ Bill of materials:
 * 1 X 9V battery (any power supply 9V to 12V)
 * 1 X Set of wires for breadboard
 
+Here are two ways of doing this, one in Tinkercad and one on a breadboard:
+
+Tinkercad:
 ![Alt text 2](https://32bitwave.github.io/32bitcoffee/images/tinkercad555.png)
+
+Live breadboard:
 ![Alt text 2](https://32bitwave.github.io/32bitcoffee/images/BreadboardWires.JPG)
 
 Tips:
