@@ -24,6 +24,7 @@ Bill of materials:
 * 1 X 9V battery (any power supply 9V to 12V)
 * 1 X Set of wires for breadboard
 
+![Alt text 2](https://32bitwave.github.io/32bitcoffee/images/tinkercad555.png)
 ![Alt text 2](https://32bitwave.github.io/32bitcoffee/images/BreadboardWires.JPG)
 
 Tips:
