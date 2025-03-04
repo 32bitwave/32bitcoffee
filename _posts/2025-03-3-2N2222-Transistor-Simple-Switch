@@ -1,0 +1,25 @@
+---
+layout: post
+title: 2N2222 Transistors Simple Switch
+date: 2025-03-03
+categories: electronics
+tags: diy electronics
+---
+Transistors in its simplest terms amplifies or switches electrical signals. In these examples, a BJT 2N2222 transistor will be used to switch on and off power to an LED.
+
+How it works:
+* A low power source, such as an Arduino pin or low voltage, is applied to the "Base"
+* Electricity flows from "Collector" to "Emitter"
+
+Here is a diagram of transistor we will use:
+![Alt text 2](https://32bitwave.github.io/32bitcoffee/images/paintBJT.png)
+
+Bill of materials:
+* 1 X Breadboard
+* 2 X 10uf Capacitors (Be aware of polarity!)
+* 2 X 1K Resistors
+* 1 X LED
+* 1 X 555 Timer IC
+* 1 X 10K Potentiometer
+* 1 X 9V battery (any power supply 9V to 12V)
+* 1 X Set of wires for breadboard
