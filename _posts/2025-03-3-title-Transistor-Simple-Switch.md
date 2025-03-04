@@ -34,29 +34,18 @@ Arduino Example:
 
 Code:
 
-void setup()
-
-{
-
-      pinMode(9, OUTPUT);
-  
-}
-
-void loop()
-
-{
-
-      // turn the LED on (HIGH is the voltage level)
-  
-      digitalWrite(9, HIGH);
-  
-      delay(1000); // Wait for 1000 millisecond(s)
-  
-      // turn the LED off by making the voltage LOW
-  
-      digitalWrite(9, LOW);
-  
-      delay(1000); // Wait for 1000 millisecond(s)
-  
-}
+      void setup()
+      {
+            pinMode(9, OUTPUT);
+      }
+      
+      void loop()
+      {
+            // turn the LED on (HIGH is the voltage level)
+            digitalWrite(9, HIGH);
+            delay(1000); // Wait for 1000 millisecond(s)
+            // turn the LED off by making the voltage LOW
+            digitalWrite(9, LOW);
+            delay(1000); // Wait for 1000 millisecond(s)
+      }
 
