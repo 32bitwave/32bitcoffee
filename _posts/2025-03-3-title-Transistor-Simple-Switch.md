@@ -13,10 +13,6 @@ How it works:
 * A low power source, such as an Arduino pin or low voltage, is applied to the "Base"
 * Electricity flows from "Collector" to "Emitter"
 
-Here is a diagram of the transistor we will use:
-
-![Alt text 2](https://32bitwave.github.io/32bitcoffee/images/paintBJT.png)
-
 Bill of materials:
 * 1 X Breadboard
 * 1 X 1K Resistors
