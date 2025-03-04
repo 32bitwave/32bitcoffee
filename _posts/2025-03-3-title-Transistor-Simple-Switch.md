@@ -6,6 +6,7 @@ categories: electronics
 tags: diy electronics
 ---
 Transistors in the simplest terms amplify or switch electrical signals. In these examples, a BJT 2N2222 transistor will be used to switch on and off power to an LED.
+
 Micro-controllers (like an Arduino, Pi, CV/Gate) use transistors to control things they normally cannot due to high amp or voltage demand and keep you micro-controller safe.
 
 How it works:
@@ -29,6 +30,17 @@ This is how it will look on the breadboard. When you hit the button, the transis
 ![Alt text 2](https://32bitwave.github.io/32bitcoffee/images/tinkercadTransistor2n2222.png) 
 
 Arduino Example:
+
+Bill of materials:
+* 1 X Breadboard
+* 1 X 1K Resistor (for base)
+* 1 X 470 ohm resistor (for LED)
+* 1 X LED
+* 1 X 2N2222 Transistor
+* 1 X 9V battery (any power supply 5V to 12V)
+* 1 X Set of wires for breadboard
+* 1 X Button
+* 1 X Arduino
 
 ![Alt text 2](https://32bitwave.github.io/32bitcoffee/images/arduinoTransistor.png)
 
