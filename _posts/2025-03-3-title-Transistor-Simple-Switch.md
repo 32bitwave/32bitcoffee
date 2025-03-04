@@ -5,14 +5,14 @@ date: 2025-03-3
 categories: electronics
 tags: diy electronics
 ---
-Transistors in the simplest terms amplifies or switches electrical signals. In these examples, a BJT 2N2222 transistor will be used to switch on and off power to an LED.
+Transistors in the simplest terms amplify or switch electrical signals. In these examples, a BJT 2N2222 transistor will be used to switch on and off power to an LED.
 Micro-controllers (like an Arduino, Pi, CV/Gate) use transistors to control things they normally cannot due to high amp or voltage demand and keep you micro-controller safe.
 
 How it works:
 * A low power source, such as an Arduino pin or low voltage, is applied to the "Base"
 * Electricity flows from "Collector" to "Emitter"
 
-Here is a diagram of transistor we will use:
+Here is a diagram of the transistor we will use:
 
 ![Alt text 2](https://32bitwave.github.io/32bitcoffee/images/paintBJT.png)
 
