@@ -12,6 +12,7 @@ How it works:
 * Electricity flows from "Collector" to "Emitter"
 
 Here is a diagram of transistor we will use:
+
 ![Alt text 2](https://32bitwave.github.io/32bitcoffee/images/paintBJT.png)
 
 Bill of materials:
