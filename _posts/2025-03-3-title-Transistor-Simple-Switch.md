@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2N2222 Transistors Simple Switch
+title: Arduino & Transistors
 date: 2025-03-3
 categories: electronics
 tags: diy electronics
@@ -27,3 +27,22 @@ Bill of materials:
 
 This is how it will look on the breadboard. When you hit the button, the transistor "allows" the circut to complete and electricity to flow.
 ![Alt text 2](https://32bitwave.github.io/32bitcoffee/images/tinkercadTransistor2n2222.png) 
+
+Arduino Example:
+![Alt text 2](https://32bitwave.github.io/32bitcoffee/images/arduinoTransistor.png)
+
+Code:
+void setup()
+{
+  pinMode(9, OUTPUT);
+}
+
+void loop()
+{
+  // turn the LED on (HIGH is the voltage level)
+  digitalWrite(9, HIGH);
+  delay(1000); // Wait for 1000 millisecond(s)
+  // turn the LED off by making the voltage LOW
+  digitalWrite(9, LOW);
+  delay(1000); // Wait for 1000 millisecond(s)
+}
