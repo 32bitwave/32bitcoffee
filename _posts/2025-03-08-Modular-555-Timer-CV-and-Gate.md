@@ -27,3 +27,6 @@ Bill of materials:
 * 3 X Audio Cables
 * 1 X 9V battery (any power supply 9V to 12V)
 * 1 X Set of wires for breadboard
+
+
+This Eurorack 555 timer does not track with the 1V OCT standard but it does sound decent. The CV is controlled trough a DIY vactrol and the Gate is controlled trough a transistor.
