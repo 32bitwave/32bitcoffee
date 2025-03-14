@@ -7,7 +7,11 @@ tags: diy electronics
 ---
 This is a synth made with a 555 timer that uses CV and Gate. CV goes from 1 to 5 volts and gate is sensitive to anything above 0.5 volts. 
 
-You can use eurorack gear or something like a beatstep/sequencer as shown in the first photo.
+This Eurorack 555 timer does not track with the 1V OCT standard but it does sound decent. The CV is controlled trough a vactrol and the Gate is controlled trough a transistor. 
+
+Note: The pulldown resistor may not be needed on the base of the transistor for gate depending on your hardware/sequencer.
+
+Realistically there should be diodes implemeted near audio jack inputs to protect your hardware so please use at your own risk. For me, with the arturia beatstep, I did not use the pulldown resistor and felt confortable not using diodes due to my hardwares circut protection.
 
 ![Alt text 2](https://32bitwave.github.io/32bitcoffee/images/Euro555Pic.JPG) 
 
@@ -28,9 +32,3 @@ Bill of materials:
 * 3 X Audio Cables
 * 1 X 9V battery (any power supply 9V to 12V)
 * 1 X Set of wires for breadboard
-
-This Eurorack 555 timer does not track with the 1V OCT standard but it does sound decent. The CV is controlled trough a vactrol and the Gate is controlled trough a transistor. 
-
-Note: The pulldown resistor may not be needed on the base of the transistor for gate depending on your hardware/sequencer.
-
-Realistically there should be diodes implemeted near audio jack inputs to protect your hardware so please use at your own risk. For me, with the arturia beatstep, I did not use the pulldown resistor and felt confortable not using diodes due to my hardwares circut protection.
