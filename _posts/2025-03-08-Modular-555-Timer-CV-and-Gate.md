@@ -14,4 +14,16 @@ You can use eurorack gear or something like a beatstep/sequencer as shown in the
 
 ![Alt text 2](https://32bitwave.github.io/32bitcoffee/images/555withCVandGate2.png) 
 
-Bill of materials and extra info TBA.
+Bill of materials:
+* 1 to 3 X Breadboard
+* 2 X 10uf Capacitors (Be aware of polarity!)
+* 5 X 1K Resistors
+* 1 X LED
+* 1 X 555 Timer IC
+* 1 X 10K Potentiometer
+* 1 X 2N2222 Transistor
+* 1 X Photoresistor (Play around with the values!)
+* 3 X Audio Jacks
+* 3 X Audio Cables
+* 1 X 9V battery (any power supply 9V to 12V)
+* 1 X Set of wires for breadboard
